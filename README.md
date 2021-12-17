@@ -12,3 +12,11 @@ https://tinkeredthinking.com/?id=836
 
 
 -Source where I find those links https://analyticsindiamag.com/openai-gpt-3-model-machine-learning-products/
+
+
+Website architech
+
+
+
+https://beta.openai.com/docs/api-reference/authentication
+https://beta.openai.com/docs/introduction/next-steps
