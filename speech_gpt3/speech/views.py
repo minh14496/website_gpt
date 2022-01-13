@@ -6,4 +6,4 @@ def say_hello(request):
     # return HttpResponse('Hello World!')
     
     # render using html
-    return render(request, 'hello.html')
+    return render(request, 'hello.html', {'name': 'Minh'})
