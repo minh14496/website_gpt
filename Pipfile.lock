@@ -1,11 +1,11 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "07625029495dd1a9bc1fee9fa9b1af40fe28a1e1c8a68247112748ebd4b4b683"
+            "sha256": "690673e0ed18eaa66730b306187b78369e0349c844084d05b795a1f48c42326d"
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_version": "3.9.5"
+            "python_version": "3.9.7"
         },
         "sources": [
             {
@@ -26,11 +26,11 @@
         },
         "django": {
             "hashes": [
-                "sha256:59304646ebc6a77b9b6a59adc67d51ecb03c5e3d63ed1f14c909cdfda84e8010",
-                "sha256:d5a8a14da819a8b9237ee4d8c78dfe056ff6e8a7511987be627192225113ee75"
+                "sha256:2485eea3cc4c3bae13080dee866ebf90ba9f98d1afe8fda89bfb0eb2e218ef86",
+                "sha256:7cd8e8a3ed2bc0dfda05ce1e53a9c81b30eefd7aa350e538a18884475e4d4ce2"
             ],
             "index": "pypi",
-            "version": "==4.0"
+            "version": "==4.0.1"
         },
         "python-dotenv": {
             "hashes": [
