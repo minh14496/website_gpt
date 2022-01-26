@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'speech'
+    'speech.apps.SpeechConfig',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
