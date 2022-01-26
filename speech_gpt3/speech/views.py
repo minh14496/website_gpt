@@ -7,3 +7,7 @@ def main(request):
     
     # render using html
     return render(request, 'hello.html', {'name': 'Minh'})
+
+def index(response):
+    
+    return render(response, "main/base.html", {})
