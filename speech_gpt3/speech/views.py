@@ -10,6 +10,6 @@ def main(request):
     # render using html
     return render(request, 'hello.html', {'name': 'Minh'})
 
-class RoomView(generics.CreateAPIView):
+class RoomView(generics.ListAPIView):
     queryset = Room.objects.all()
-    serializer_class =RoomSerializer
+    serializer_class = RoomSerializer
