@@ -16,11 +16,11 @@ https://tinkeredthinking.com/?id=836
 
 Website architech
 
-Frontend: React
+Frontend: Django
 Backend: Django
 API: gpt3
 Tutorial 
-https://www.youtube.com/watch?v=JD-age0BPVo&list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j&ab_channel=TechWithTim
+https://www.youtube.com/watch?v=sm1mokevMWk&t=8725s&ab_channel=TechWithTim
 
 
 https://beta.openai.com/docs/api-reference/authentication
