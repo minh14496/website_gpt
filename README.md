@@ -27,10 +27,6 @@ https://beta.openai.com/docs/api-reference/authentication
 https://beta.openai.com/docs/introduction/next-steps
 
 Example
-https://www.dover.io/tools/job-descri...
-https://app.fitnessai.com/knowledge/
-https://beta.storymapr.com/users/sign_in
 https://play.aidungeon.io/main/landing
-https://www.simplify.so/
-https://philosopherai.com/philosopher...
-https://www.taglines.ai/
+https://www.copy.ai/
+
